@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="11"
+    android:viewportHeight="16" android:width="11dp" android:height="16dp">
+    <group android:name="button" android:translateY="-12" android:translateX="-16">
+        <path android:fillColor="#FFFFFF" android:strokeWidth="1" android:name="Play-icon"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M16.8114877,27.8344256 C16.3620568,28.1624609 16,27.9876491 16,27.4463644 L16,12.5557701 C16,12.0113262 16.3620568,11.8365144 16.8114877,12.167709 L26.6629268,19.4071285 C27.1123577,19.7351638 27.1123577,20.2706566 26.6629268,20.5986919 L16.8114877,27.8349521 L16.8114877,27.8344256 Z" />
+    </group>
+</vector>

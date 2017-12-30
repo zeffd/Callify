@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="14"
+    android:viewportHeight="18" android:width="14dp" android:height="18dp">
+    <group android:name="icon--trash-outline" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#FF4F60" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M14,3.375 C14,2.7534375 13.4779167,2.25 12.8333333,2.25 L10.5,2.25 L10.5,1.6875 C10.5,0.7554375 9.71658333,0 8.75,0 L5.25,0 C4.28341667,0 3.5,0.7554375 3.5,1.6875 L3.5,2.25 L1.16666667,2.25 C0.522083333,2.25 0,2.7534375 0,3.375 L0,5.625 L1.16666667,5.625 L1.16666667,16.3125 C1.16666667,17.2445625 1.95008333,18 2.91666667,18 L11.0833333,18 C12.0499167,18 12.8333333,17.2445625 12.8333333,16.3125 L12.8333333,5.625 L14,5.625 L14,3.375 Z M4.66666667,1.6875 C4.66666667,1.3775625 4.92858333,1.125 5.25,1.125 L8.75,1.125 C9.07141667,1.125 9.33333333,1.3775625 9.33333333,1.6875 L9.33333333,2.25 L4.66666667,2.25 L4.66666667,1.6875 Z M11.6666667,16.3125 C11.6666667,16.6224375 11.40475,16.875 11.0833333,16.875 L2.91666667,16.875 C2.59525,16.875 2.33333333,16.6224375 2.33333333,16.3125 L2.33333333,5.625 L11.6666667,5.625 L11.6666667,16.3125 Z M12.8333333,4.5 L1.16666667,4.5 L1.16666667,3.375 L12.8333333,3.375 L12.8333333,4.5 Z" />
+        <path android:fillColor="#FF4F60" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M3.5,15 C3.776,15 4,14.7610667 4,14.4666667 L4,7.53333333 C4,7.23893333 3.776,7 3.5,7 C3.224,7 3,7.23893333 3,7.53333333 L3,14.4666667 C3,14.7610667 3.224,15 3.5,15 Z" />
+        <path android:fillColor="#FF4F60" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M6.5,15 C6.776,15 7,14.7610667 7,14.4666667 L7,7.53333333 C7,7.23893333 6.776,7 6.5,7 C6.224,7 6,7.23893333 6,7.53333333 L6,14.4666667 C6,14.7610667 6.224,15 6.5,15 Z" />
+        <path android:fillColor="#FF4F60" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M9.5,15 C9.776,15 10,14.7610667 10,14.4666667 L10,7.53333333 C10,7.23893333 9.776,7 9.5,7 C9.224,7 9,7.23893333 9,7.53333333 L9,14.4666667 C9,14.7610667 9.224,15 9.5,15 Z" />
+    </group>
+</vector>

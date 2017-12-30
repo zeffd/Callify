@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="18"
+    android:viewportHeight="18" android:width="18dp" android:height="18dp">
+    <group android:name="button-/-36px-/-green-/-default-copy" android:translateY="-9"
+        android:translateX="-15">
+        <path android:fillColor="#A6B6BE" android:strokeWidth="1" android:name="icon-filter-"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M32.9231399,9.49857955 C33.0678172,9.84801311 33.0082451,10.1463056 32.7444218,10.3934659 L26.4509912,16.6960227 L26.4509912,26.1818182 C26.4509912,26.5397745 26.2850404,26.7911925 25.9531336,26.9360795 C25.8424981,26.9786934 25.7361193,27 25.6339942,27 C25.4042126,27 25.2127308,26.9190349 25.0595431,26.7571023 L21.7915548,23.484375 C21.6298566,23.3224424 21.5490088,23.1306829 21.5490088,22.9090909 L21.5490088,16.6960227 L15.2555782,10.3934659 C14.9917549,10.1463056 14.9321828,9.84801311 15.0768601,9.49857955 C15.2215374,9.16619152 15.4725912,9 15.8300292,9 L32.1699708,9 C32.5274088,9 32.7784626,9.16619152 32.9231399,9.49857955 Z" />
+    </group>
+</vector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="14"
+    android:viewportHeight="16" android:width="14dp" android:height="16dp">
+    <group android:name="icon--user" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#fff" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M9.0365,9.303 C10.2995,8.3345 11,6.4975 11,4.706 C11,2.107 9.527,0 7,0 C4.473,0 3,2.107 3,4.706 C3,6.498 3.7005,8.3345 4.9635,9.303 C2.091,10.1755 0,12.8425 0,16 L1,16 C1,12.6915 3.6915,10 7,10 C10.3085,10 13,12.6915 13,16 L14,16 C14,12.8425 11.909,10.1755 9.0365,9.303 Z M4,4.706 C4,2.146 5.5065,1 7,1 C8.4935,1 10,2.146 10,4.706 C10,6.8165 8.878,9 7,9 C5.122,9 4,6.8165 4,4.706 Z" />
+    </group>
+</vector>

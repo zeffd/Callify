@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="16"
+    android:viewportHeight="16" android:width="16dp" android:height="16dp">
+    <group android:name="icon--block-circle" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#FF4F60" android:strokeWidth="1" android:name="Combined-Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M0,8 C0,3.5815 3.5815,0 8,0 C12.4185,0 16,3.5815 16,8 C16,12.4185 12.4185,16 8,16 C3.5815,16 0,12.4185 0,8 Z M1.29998779,8.00000286 C1.29998779,11.7004965 4.29949396,14.7000027 7.9999876,14.7000027 C11.7004812,14.7000027 14.6999874,11.7004965 14.6999874,8.00000286 C14.6999874,4.29950922 11.7004812,1.30000305 7.9999876,1.30000305 C4.29949396,1.30000305 1.29998779,4.29950922 1.29998779,8.00000286 Z" />
+        <path android:fillColor="#FF4F60" android:strokeWidth="1" android:name="Path"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 7.51,0.76 L 8.81,0.76 L 8.81,15.76 L 7.51,15.76 z" />
+    </group>
+</vector>

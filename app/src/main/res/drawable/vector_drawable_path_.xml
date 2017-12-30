@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="14"
+    android:viewportHeight="13" android:width="14dp" android:height="13dp">
+    <group android:name="Desktop-HD" android:translateY="-827" android:translateX="-1174">
+        <path android:fillColor="#00E9C8" android:strokeWidth="1" android:name="Path-2"
+            android:strokeColor="#00000000" android:fillType="evenOdd"
+            android:pathData="M 1174,835 L 1179,840 L 1188,828 L 1186,827 L 1179,836 L 1176,833 z" />
+    </group>
+</vector>

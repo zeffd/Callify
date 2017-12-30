@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="12"
+    android:viewportHeight="9" android:width="12dp" android:height="9dp">
+    <group android:name="Dropdown" android:translateY="-83" android:translateX="-10">
+        <path android:fillColor="#222A37" android:strokeWidth="1" android:name="Checkmark"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M13,87 L21,87 L21,89 L13,89 L11,89 L11,83 L13,83 L13,87 Z" />
+    </group>
+</vector>

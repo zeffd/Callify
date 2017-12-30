@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="90"
+    android:viewportHeight="90" android:width="90dp" android:height="90dp">
+    <group android:name="icon--user-copy" android:translateY="1179" android:translateX="541">
+        <group android:name="icon--user">
+            <group android:name="Shape" android:translateY="23" android:translateX="17">
+                <path android:fillColor="#FF000000"
+                    android:pathData="M36.146,37.212 C41.198,33.338 44,25.99 44,18.824 C44,8.428 38.108,0 28,0 C17.892,0 12,8.428 12,18.824 C12,25.992 14.802,33.338 19.854,37.212 C8.364,40.702 0,51.37 0,64 L4,64 C4,50.766 14.766,40 28,40 C41.234,40 52,50.766 52,64 L56,64 C56,51.37 47.636,40.702 36.146,37.212 Z M16,18.824 C16,8.584 22.026,4 28,4 C33.974,4 40,8.584 40,18.824 C40,27.266 35.512,36 28,36 C20.488,36 16,27.266 16,18.824 Z" />
+            </group>
+        </group>
+        <path android:fillColor="#D0D9E1" android:name="Mask"
+            android:pathData="M 0,45 a 45,45 0 0 1 90,0 a 45,45 0 0 1 -90,0 z" />
+    </group>
+</vector>

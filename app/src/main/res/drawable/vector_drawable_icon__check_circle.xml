@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="30"
+    android:viewportHeight="30" android:width="30dp" android:height="30dp">
+    <group android:name="icon--check-circle" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#43C04E" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M15,2.22044605e-16 C6.71572875,-2.33146835e-15 9.99200722e-16,6.71572875 0,15 C-9.99200722e-16,23.2842712 6.71572875,30 15,30 C23.2842712,30 30,23.2842712 30,15 C30,6.71572875 23.2842712,2.22044605e-15 15,0 Z M15,2 C22.1797017,2 28,7.82029825 28,15 C28,22.1797017 22.1797017,28 15,28 C7.82029825,28 2,22.1797017 2,15 C2,7.82029825 7.82029825,2 15,2 Z" />
+        <path android:fillColor="#43C04E" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M 19.72,8 L 12.46,18.48 L 9.09,14.88 L 7,17.04 L 12.76,23 L 22,9.85 z" />
+    </group>
+</vector>

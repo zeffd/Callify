@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#fff"
+        android:gravity="center_vertical"
+        android:id="@+id/header">
+
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/drawer"
+            android:gravity="center"
+            android:backgroundTint="#000"
+            android:drawablePadding="10dp"
+            android:id="@+id/btn_NavIcon"
+            android:layout_gravity="center"
+            android:padding="0dp" />
+        <ImageButton
+            android:id="@+id/imgtitle"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:background="@drawable/vector_drawable_logo__sign"
+            android:backgroundTint="#12d5e7"/>
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:gravity="end|center"
+            android:id="@+id/imgProfile"
+            android:background="@drawable/circlee"
+            android:layout_toLeftOf="@+id/spinnImgProfile"
+            android:backgroundTint="#e1e1e1"/>
+
+        <Spinner
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_centerInParent="true"
+            android:gravity="start|center"
+            android:layout_alignParentRight="true"
+            android:id="@+id/spinnImgProfile"/>
+
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#efeded"
+        android:layout_below="@+id/header"/>
+
+
+</RelativeLayout>

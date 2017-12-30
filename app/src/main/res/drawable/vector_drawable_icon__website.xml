@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="100"
+    android:viewportHeight="90" android:width="100dp" android:height="90dp">
+    <group android:name="icon--website" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#D0D9E1" android:strokeWidth="1" android:name="Combined-Shape"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M6,0 L94,0 C97.3137085,-6.08718376e-16 100,2.6862915 100,6 L100,84 C100,87.3137085 97.3137085,90 94,90 L6,90 C2.6862915,90 4.05812251e-16,87.3137085 0,84 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z M7,3 C4.790861,3 3,4.790861 3,7 L3,83 C3,85.209139 4.790861,87 7,87 L93,87 C95.209139,87 97,85.209139 97,83 L97,7 C97,4.790861 95.209139,3 93,3 L7,3 Z M3,14 L97,14 L97,17 L3,17 L3,14 Z M9,11 C7.8954305,11 7,10.1045695 7,9 C7,7.8954305 7.8954305,7 9,7 C10.1045695,7 11,7.8954305 11,9 C11,10.1045695 10.1045695,11 9,11 Z M14,11 C12.8954305,11 12,10.1045695 12,9 C12,7.8954305 12.8954305,7 14,7 C15.1045695,7 16,7.8954305 16,9 C16,10.1045695 15.1045695,11 14,11 Z M19,11 C17.8954305,11 17,10.1045695 17,9 C17,7.8954305 17.8954305,7 19,7 C20.1045695,7 21,7.8954305 21,9 C21,10.1045695 20.1045695,11 19,11 Z" />
+        <path android:fillColor="#D0D9E1" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M 36.5,65 L 39,62.5 L 30.09,53.41 L 39,44.5 L 36.5,42 L 25,53.5 z" />
+        <path android:fillColor="#D0D9E1" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M 63.5,42 L 61,44.5 L 69.91,53.59 L 61,62.5 L 63.5,65 L 75,53.5 z" />
+        <path android:fillColor="#D0D9E1" android:strokeWidth="1" android:name="Rectangle-4"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 48,38 L 52,38 L 52,68 L 48,68 z" />
+    </group>
+</vector>

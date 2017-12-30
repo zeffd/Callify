@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="24"
+    android:viewportHeight="17" android:width="24dp" android:height="17dp">
+    <group android:name="Menu" android:translateY="-12" android:translateX="-8">
+        <path android:fillColor="#31333B" android:strokeWidth="1" android:name="icon--menu-mobile"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M9.5,12 L30.5,12 C31.3284271,12 32,12.6715729 32,13.5 C32,14.3284271 31.3284271,15 30.5,15 L9.5,15 C8.67157288,15 8,14.3284271 8,13.5 C8,12.6715729 8.67157288,12 9.5,12 Z M9.5,19 L30.5,19 C31.3284271,19 32,19.6715729 32,20.5 C32,21.3284271 31.3284271,22 30.5,22 L9.5,22 C8.67157288,22 8,21.3284271 8,20.5 C8,19.6715729 8.67157288,19 9.5,19 Z M9.5,26 L30.5,26 C31.3284271,26 32,26.6715729 32,27.5 C32,28.3284271 31.3284271,29 30.5,29 L9.5,29 C8.67157288,29 8,28.3284271 8,27.5 C8,26.6715729 8.67157288,26 9.5,26 Z" />
+    </group>
+</vector>

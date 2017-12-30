@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="37"
+    android:viewportHeight="36" android:width="37dp" android:height="36dp">
+    <group android:name="Group-2-Copy" android:translateY="0" android:translateX="1">
+        <group android:name="Group" android:translateY="10" android:translateX="13">
+            <path android:fillColor="#70828B" android:name="Rectangle-4"
+                android:pathData="M 13,4 Q 14,4 14,5 L 14,5 Q 14,6 13,6 L 1,6 Q 0,6 0,5 L 0,5 Q 0,4 1,4 z" />
+            <path android:fillColor="#70828B" android:name="Rectangle-4-Copy"
+                android:pathData="M 13,10 Q 14,10 14,11 L 14,11 Q 14,12 13,12 L 1,12 Q 0,12 0,11 L 0,11 Q 0,10 1,10 z" />
+            <path android:fillColor="#70828B" android:name="Rectangle-2"
+                android:pathData="M 4,0 Q 5,0 5,1 L 5,15 Q 5,16 4,16 L 4,16 Q 3,16 3,15 L 3,1 Q 3,0 4,0 z" />
+            <path android:fillColor="#70828B" android:name="Rectangle-2-Copy"
+                android:pathData="M 10,0 Q 11,0 11,1 L 11,15 Q 11,16 10,16 L 10,16 Q 9,16 9,15 L 9,1 Q 9,0 10,0 z" />
+        </group>
+        <path android:fillColor="#A6B6BE" android:strokeWidth="1" android:name="Rectangle"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 30,0 Q 36,0 36,6 L 36,30 Q 36,36 30,36 L 10,36 Q 4,36 4,30 L 4,6 Q 4,0 10,0 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="1" android:name="Rectangle-Copy"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 30,2 Q 34,2 34,6 L 34,30 Q 34,34 30,34 L 10,34 Q 6,34 6,30 L 6,6 Q 6,2 10,2 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="2" android:name="Rectangle-3"
+            android:fillType="evenOdd" android:strokeColor="#D0D9E1"
+            android:pathData="M 6,8 Q 8,8 8,10 L 8,10 Q 8,12 6,12 L 2,12 Q 0,12 0,10 L 0,10 Q 0,8 2,8 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="2" android:name="Rectangle-3-Copy"
+            android:fillType="evenOdd" android:strokeColor="#D0D9E1"
+            android:pathData="M 6,16 Q 8,16 8,18 L 8,18 Q 8,20 6,20 L 2,20 Q 0,20 0,18 L 0,18 Q 0,16 2,16 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="2" android:name="Rectangle-3-Copy-2"
+            android:fillType="evenOdd" android:strokeColor="#D0D9E1"
+            android:pathData="M 6,24 Q 8,24 8,26 L 8,26 Q 8,28 6,28 L 2,28 Q 0,28 0,26 L 0,26 Q 0,24 2,24 z" />
+    </group>
+</vector>

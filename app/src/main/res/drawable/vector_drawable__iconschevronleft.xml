@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="14"
+    android:viewportHeight="14" android:width="14dp" android:height="14dp">
+    <group android:name="Rectangle">
+        <path android:fillColor="#23C0FF" android:pathData="M 0,0 L 14,0 L 14,14 L 0,14 z" />
+        <path android:fillColor="#000000" android:name="Shape" android:fillType="nonZero"
+            android:pathData="M12.762,1.279 L12.2675,2.4125 C10.9855,0.938 9.1035,0 7,0 C3.14,0 0,3.14 0,7 C0,10.86 3.14,14 7,14 C10.5195,14 13.4325,11.3865 13.92,8 L11.899,8 C11.4345,10.2795 9.4145,12 7,12 C4.243,12 2,9.757 2,7 C2,4.243 4.243,2 7,2 C8.6285,2 10.075,2.7845 10.9885,3.9935 L9.1775,4.762 C8.561,5.042 8.732,5.9605 9.408,6.0005 L14,6.0005 L14,1.509 C13.9605,0.8335 13.042,0.6625 12.762,1.279 Z" />
+    </group>
+</vector>

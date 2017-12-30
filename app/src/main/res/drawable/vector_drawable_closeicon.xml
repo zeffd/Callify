@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="16"
+    android:viewportHeight="16" android:width="16dp" android:height="16dp">
+    <group android:name="Desktop-HD" android:translateY="-672" android:translateX="-661">
+        <path android:fillColor="#A6B6BE" android:strokeWidth="1" android:name="Close-icon"
+            android:strokeColor="#00000000" android:fillType="nonZero"
+            android:pathData="M 674.97,672 L 669,677.97 L 663.03,672 L 661,674.03 L 666.97,680 L 661,685.97 L 663.03,688 L 669,682.03 L 674.97,688 L 677,685.97 L 671.03,680 L 677,674.03 z" />
+    </group>
+</vector>

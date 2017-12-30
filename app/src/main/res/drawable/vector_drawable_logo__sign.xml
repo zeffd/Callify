@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="40"
+    android:viewportHeight="40" android:width="40dp" android:height="40dp">
+    <group android:name="logo--sign" android:translateY="0" android:translateX="0">
+        <group android:name="Ca-Logo" android:translateY="14" android:translateX="8">
+            <path android:fillColor="#FFFFFF" android:name="Combined-Shape"
+                android:pathData="M9.18711779,3.58255859 C8.45658774,2.62092804 7.30080663,2 6,2 C3.790861,2 2,3.790861 2,6 C2,8.209139 3.790861,10 6,10 L6,12 C2.6862915,12 0,9.3137085 0,6 C0,2.6862915 2.6862915,0 6,0 C7.96288675,0 9.70562376,0.942573053 10.8002811,2.39978919 L10.8000468,2.39996487 C10.9256006,2.56710299 11,2.77486304 11,3 C11,3.55228475 10.5522847,4 10,4 C9.66507012,4 9.36859825,3.83534172 9.18711779,3.58255859 Z" />
+            <path android:fillColor="#FFFFFF" android:name="Oval-2"
+                android:pathData="M 25.72,10.45 a 1,1 0 0 1 2,0 a 1,1 0 0 1 -2,0 z" />
+            <path android:fillColor="#FFFFFF" android:name="Combined-Shape-Copy"
+                android:pathData="M26.3161314,11.3677371 C24.3498319,10.382671 23,8.34897055 23,6 L25,6 C25,7.56598037 25.8998879,8.92178065 27.2107543,9.5784914 L26.3161314,11.3677371 Z" />
+            <path android:fillColor="#FFFFFF" android:name="Combined-Shape"
+                android:pathData="M15.8128822,3.58255859 C15.6314018,3.83534172 15.3349299,4 15,4 C14.4477153,4 14,3.55228475 14,3 C14,2.77486304 14.0743994,2.56710299 14.1999532,2.39996487 L14.1997189,2.39978919 C15.2943762,0.942573053 17.0371133,0 19,0 C22.3137085,0 25,2.6862915 25,6 C25,9.3137085 22.3137085,12 19,12 L19,10 C21.209139,10 23,8.209139 23,6 C23,3.790861 21.209139,2 19,2 C17.6991934,2 16.5434123,2.62092804 15.8128822,3.58255859 Z" />
+            <path android:fillColor="#FFFFFF" android:name="Rectangle"
+                android:pathData="M 6,10 L 19,10 L 19,12 L 6,12 z" />
+        </group>
+        <path android:fillColor="#23C0FF" android:strokeWidth="1" android:name="Shape"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M11.459631,38.0900615 L0,40 L1.90993851,28.540369 C0.685055387,25.950401 0,23.0552021 0,20 C0,8.954305 8.954305,0 20,0 C31.045695,0 40,8.954305 40,20 C40,31.045695 31.045695,40 20,40 C16.9447979,40 14.049599,39.3149446 11.459631,38.0900615 Z" />
+    </group>
+</vector>

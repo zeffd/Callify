@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="60"
+    android:viewportHeight="60" android:width="60dp" android:height="60dp">
+    <group android:name="Mute-Copy" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#FEBE00" android:strokeWidth="1" android:name="Oval-2-Copy-2"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 0,30 a 30,30 0 0 1 60,0 a 30,30 0 0 1 -60,0 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="1" android:name="Pause-icon"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M20,15 L25.5,15 C26.0522847,15 26.5,15.4477153 26.5,16 L26.5,44 C26.5,44.5522847 26.0522847,45 25.5,45 L20,45 C19.4477153,45 19,44.5522847 19,44 L19,16 C19,15.4477153 19.4477153,15 20,15 Z M35,15 L40.5,15 C41.0522847,15 41.5,15.4477153 41.5,16 L41.5,44 C41.5,44.5522847 41.0522847,45 40.5,45 L35,45 C34.4477153,45 34,44.5522847 34,44 L34,16 C34,15.4477153 34.4477153,15 35,15 Z" />
+    </group>
+</vector>

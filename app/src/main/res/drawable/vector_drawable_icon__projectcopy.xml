@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="12"
+    android:viewportHeight="16" android:width="12dp" android:height="16dp">
+    <group android:name="icon--project-copy" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#A6B6BE" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M11,2 L10,2 L10,1 L7,1 L7,0.5 C7,0.224 6.776,0 6.5,0 L5.5,0 C5.224,0 5,0.224 5,0.5 L5,1 L2,1 L2,2 L1,2 C0.4475,2 0,2.4475 0,3 L0,15 C0,15.5525 0.4475,16 1,16 L11,16 C11.5525,16 12,15.5525 12,15 L12,3 C12,2.4475 11.5525,2 11,2 Z M11,15 L1,15 L1,3 L2,3 L2,3.5 C2,3.776 2.224,4 2.5,4 L9.5,4 C9.776,4 10,3.776 10,3.5 L10,3 L11,3 L11,15 Z" />
+        <path android:fillColor="#A6B6BE" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M 2,10 L 8,10 L 8,11 L 2,11 z" />
+        <path android:fillColor="#A6B6BE" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M 2,8 L 10,8 L 10,9 L 2,9 z" />
+        <path android:fillColor="#A6B6BE" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M 2,6 L 9,6 L 9,7 L 2,7 z" />
+    </group>
+</vector>

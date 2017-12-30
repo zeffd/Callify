@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="60"
+    android:viewportHeight="60" android:width="60dp" android:height="60dp">
+    <group android:name="Mute" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#23C0FF" android:strokeWidth="1" android:name="Oval-2-Copy-2"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 0,30 a 30,30 0 0 1 60,0 a 30,30 0 0 1 -60,0 z" />
+        <path android:fillColor="#00000000" android:strokeWidth="1.5" android:name="Mute-Copy"
+            android:fillType="evenOdd" android:strokeColor="#FFFFFF"
+            android:pathData="M38.265165,30.265165 L38,30 L34.4644661,33.5355339 L35.5251263,33.5355339 L34.4644661,32.4748737 L34.4644661,33.5355339 L38,30 L34.4644661,26.4644661 L34.4644661,27.5251263 L35.5251263,26.4644661 L34.4644661,26.4644661 L38,30 L38.265165,29.734835 L38,30 L38.265165,30.265165 Z M38.265165,29.734835 L41.5355339,26.4644661 L40.4748737,26.4644661 L41.5355339,27.5251263 L41.5355339,26.4644661 L38.265165,29.734835 Z M38.265165,30.265165 L41.5355339,33.5355339 L41.5355339,32.4748737 L40.4748737,33.5355339 L41.5355339,33.5355339 L38.265165,30.265165 Z M30.25,43.3380191 L30.25,16.6619809 L22.7835784,23.25 L16,23.25 C15.3096441,23.25 14.75,23.8096441 14.75,24.5 L14.75,35.5 C14.75,36.1903559 15.3096441,36.75 16,36.75 L22.7835784,36.75 L30.25,43.3380191 Z" />
+    </group>
+</vector>

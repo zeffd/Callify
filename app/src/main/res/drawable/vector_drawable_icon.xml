@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="42"
+    android:viewportHeight="36" android:width="42dp" android:height="36dp">
+    <group android:name="Icon" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#616C78" android:strokeWidth="1" android:name="Rectangle"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M15,-1.08420217e-19 L27,0 C33.627417,-1.21745062e-15 39,5.372583 39,12 L27,21 L15,14.9989772 L3,24 L3,12 C3,5.372583 8.372583,-2.33526306e-15 15,-3.55271368e-15 Z" />
+        <path android:fillColor="#4D545E" android:strokeWidth="1" android:name="Rectangle-Copy"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M3,24 L15,15 L27,21 L39,12 L39,24 C39,30.627417 33.627417,36 27,36 L15,36 C8.372583,36 3,30.627417 3,24 Z" />
+        <path android:fillColor="#00000000" android:strokeLineJoin="round" android:strokeWidth="3"
+            android:name="Path-2" android:fillType="evenOdd" android:strokeColor="#161D29"
+            android:strokeLineCap="round" android:pathData="M 5,24 L 15,15 L 27,21 L 37,12 z" />
+        <path android:fillColor="#161D29" android:strokeWidth="1" android:name="Oval-Copy"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 0,24 a 5,5 0 0 1 10,0 a 5,5 0 0 1 -10,0 z" />
+        <path android:fillColor="#161D29" android:strokeWidth="1" android:name="Oval-Copy-7"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 10,15 a 5,5 0 0 1 10,0 a 5,5 0 0 1 -10,0 z" />
+        <path android:fillColor="#161D29" android:strokeWidth="1" android:name="Oval-Copy-6"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 22,21 a 5,5 0 0 1 10,0 a 5,5 0 0 1 -10,0 z" />
+        <path android:fillColor="#161D29" android:strokeWidth="1" android:name="Oval-Copy-5"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 32,12 a 5,5 0 0 1 10,0 a 5,5 0 0 1 -10,0 z" />
+        <path android:fillColor="#00000000" android:strokeLineJoin="round" android:strokeWidth="1"
+            android:name="Path-2-Copy" android:fillType="evenOdd" android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" android:pathData="M 5,24 L 15,15 L 27,21 L 37,12 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="1" android:name="Oval"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 1,24 a 4,4 0 0 1 8,0 a 4,4 0 0 1 -8,0 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="1" android:name="Oval-Copy-2"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 11,15 a 4,4 0 0 1 8,0 a 4,4 0 0 1 -8,0 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="1" android:name="Oval-Copy-3"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 23,21 a 4,4 0 0 1 8,0 a 4,4 0 0 1 -8,0 z" />
+        <path android:fillColor="#FFFFFF" android:strokeWidth="1" android:name="Oval-Copy-4"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 33,12 a 4,4 0 0 1 8,0 a 4,4 0 0 1 -8,0 z" />
+        <path android:fillColor="#161D29" android:strokeWidth="1" android:name="Oval-Copy-11"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 2,24 a 3,3 0 0 1 6,0 a 3,3 0 0 1 -6,0 z" />
+        <path android:fillColor="#161D29" android:strokeWidth="1" android:name="Oval-Copy-10"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 12,15 a 3,3 0 0 1 6,0 a 3,3 0 0 1 -6,0 z" />
+        <path android:fillColor="#161D29" android:strokeWidth="1" android:name="Oval-Copy-9"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 24,21 a 3,3 0 0 1 6,0 a 3,3 0 0 1 -6,0 z" />
+        <path android:fillColor="#161D29" android:strokeWidth="1" android:name="Oval-Copy-8"
+            android:fillType="evenOdd" android:strokeColor="#00000000"
+            android:pathData="M 34,12 a 3,3 0 0 1 6,0 a 3,3 0 0 1 -6,0 z" />
+    </group>
+</vector>

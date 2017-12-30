@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="22"
+    android:viewportHeight="8" android:width="22dp" android:height="8dp">
+    <group android:name="icon--arrow-down-copy-2" android:translateY="-7" android:translateX="7"
+        android:rotation="90">
+        <path android:fillColor="#23C0FF" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M0.099542832,16.8119924 L3.60539531,21.7794818 C3.81308199,22.0735061 4.18742457,22.0735061 4.39460469,21.7794818 L7.90045717,16.8119924 C8.16741054,16.4340313 7.85486741,15.8695439 7.4658348,16.0271095 L4,17.4299835 L0.534165202,16.0271095 C0.145132591,15.8695439 -0.167410535,16.4340313 0.099542832,16.8119924 Z" />
+        <path android:fillColor="#23C0FF" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M4.5,18 L3.5,18 C3.224,18 3,17.496 3,16.875 L3,1.125 C3,0.504 3.224,0 3.5,0 L4.5,0 C4.776,0 5,0.504 5,1.125 L5,16.875 C5,17.496 4.776,18 4.5,18 Z" />
+    </group>
+</vector>

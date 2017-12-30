@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="28"
+    android:viewportHeight="32" android:width="28dp" android:height="32dp">
+    <group android:name="icon--bell-outline" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#4D545E" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M28,25 C25.791,25 24,23.209 24,21 L24,12 C24,7.502 21.03,3.699 16.944,2.442 C16.682,1.052 15.466,0 14,0 C12.534,0 11.318,1.052 11.056,2.442 C6.97,3.699 4,7.502 4,12 L4,21 C4,23.209 2.209,25 0,25 L0,28 L9.101,28 C9.564,30.282 11.581,32 14,32 C16.419,32 18.436,30.282 18.899,28 L28,28 L28,25 Z M3,26 C4.59067091,24.924 5.63998316,23.084 5.63998316,21 L5.63998316,12 C5.63998316,7.589 9.16618321,4 13.5,4 C17.8338168,4 21.3600168,7.589 21.3600168,12 L21.3600168,21 C21.3600168,23.084 22.4103116,24.924 24,26 L3,26 Z" />
+    </group>
+</vector>

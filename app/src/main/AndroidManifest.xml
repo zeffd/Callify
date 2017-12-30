@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pcube.callify">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Activity_SetUpWizard">
+        </activity>
+
+
+        <activity android:name=".Activity_SetUpWizard_Tracking_PhoneNo">
+        </activity>
+
+        <activity android:name=".Activity_SetUpWizard_Tracking_UsesOnline">
+
+
+        </activity>
+
+        <activity android:name=".Activity_SetUpWizard_Choose_Tracking_PhoneNo">
+
+        </activity>
+        <activity android:name=".Activity_SetUpWizard_Choose_Tracking_PhoneNo_OtherOption">
+
+        </activity>
+        <activity android:name=".Activity_SetUpWizard_Destination_Number_Pool_Size">
+
+        </activity>
+
+        <activity android:name=".Activity_SetUpWizard_Name_And_Destination_Number">
+
+        </activity>
+
+        <activity android:name=".Activity_SetUpWizard_Tracking_Source">
+
+        </activity>
+        <activity android:name=".Activity_SetUpWizard_Suggested_Next_Step">
+
+        </activity>
+
+        <activity android:name=".Activity_SetUpWizard_Comlete_Profile">
+
+        </activity>
+
+        <activity android:name=".Activity_SetUpWizard_Select_Your_Plain">
+
+        </activity></application>
+
+</manifest>

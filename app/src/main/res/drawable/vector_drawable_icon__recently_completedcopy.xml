@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="60"
+    android:viewportHeight="60" android:width="60dp" android:height="60dp">
+    <group android:name="icon--recently-completed-copy" android:translateY="0"
+        android:translateX="0">
+        <path android:fillColor="#70828B" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M30,0 C22.1925,0 15.095625,2.99625 9.763125,7.888125 L3.75,1.875 L3.75,15 C3.75,17.071875 5.428125,18.75 7.5,18.75 L20.625,18.75 L12.42,10.545 C17.075625,6.328125 23.23875,3.75 30,3.75 C44.475,3.75 56.25,15.525 56.25,30 C56.25,44.475 44.475,56.25 30,56.25 C15.525,56.25 3.75,44.475 3.75,30 C3.75,28.06875 3.975,26.19 4.3725,24.375 L0.545625,24.375 C0.19875,26.199375 -1e-16,28.07625 -1e-16,30 C-1e-16,46.569375 13.430625,60 30,60 C46.569375,60 60,46.569375 60,30 C60,13.430625 46.569375,0 30,0 Z" />
+        <path android:fillColor="#70828B" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M 44.81,42.35 L 30,27.54 L 30,15 L 26.25,15 L 26.25,29.89 L 26.24,29.9 L 41.75,45.41 z" />
+    </group>
+</vector>

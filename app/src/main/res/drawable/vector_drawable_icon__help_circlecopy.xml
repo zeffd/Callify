@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="18"
+    android:viewportHeight="18" android:width="18dp" android:height="18dp">
+    <group android:name="icon--help-circle-copy" android:translateY="0" android:translateX="0">
+        <group android:name="icon--info" android:translateY="3.9375" android:translateX="7.875">
+            <path android:fillColor="#FF000000" android:name="Shape"
+                android:pathData="M 0,3.94 L 2.25,3.94 L 2.25,10.69 L 0,10.69 z" />
+            <path android:fillColor="#FF000000" android:name="Shape"
+                android:pathData="M 0,0 L 2.25,0 L 2.25,2.25 L 0,2.25 z" />
+        </group>
+        <path android:fillColor="#A6B6BE" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M9,1.125 C13.3492424,1.125 16.875,4.6507576 16.875,9 C16.875,13.3492424 13.3492424,16.875 9,16.875 C4.6507576,16.875 1.125,13.3492424 1.125,9 C1.125,4.6507576 4.6507576,1.125 9,1.125 Z M9,0 C4.02943725,1.29892781e-15 6.08718376e-16,4.02943725 0,9 C-6.08718376e-16,13.9705627 4.02943725,18 9,18 C13.9705627,18 18,13.9705627 18,9 C18,6.61305159 17.0517884,4.32386638 15.363961,2.63603897 C13.6761336,0.948211563 11.3869484,6.45758797e-16 9,0 Z" />
+    </group>
+</vector>

@@ -1,0 +1,216 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Callify</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hosting_main">HostingMainActivity</string>
+    <string name="About_us_content">Hosting Centre is a flagship brand of Pcube IT Services Pvt. Ltd. Based at Jaipur, Rajasthan (India).</string>
+
+
+    <string name="nav_item_features">Features</string>
+    <string name="nav_item_about">About us</string>
+    <string name="nav_item_pricing">Pricing</string>
+    <string name="nav_item_help">HelP</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="asterisk">*</string>
+    <string name="zero">0</string>
+    <string name="hash">#</string>
+    <string name="dial">Dial</string>
+    <string name="backspace">&lt;=</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_features</item>
+        <item>@string/nav_item_about</item>
+        <item>@string/nav_item_pricing</item>
+        <item>@string/nav_item_help</item>
+
+    </string-array>
+
+    <string-array name="callsTexts">
+        <item>Calls</item>
+        <item>Texts</item>
+    </string-array>
+
+
+    <string name="exit_wizard">Exit Wizard</string>
+    <string name="add_tracking">Add tracking phone number</string>
+    <string name="start_here">Start here</string>
+    <string name="chouse_tracking_phn_no">Choose tracking phone nunber </string>
+    <string name="lorem_ipsum">Lorem ipsum dolar sit amet,consectetur adipiscing elit. Suspendiss varius enim in eros elementum tristique</string>
+    <string name="chouse_no">Choose number</string>
+    <string name="select_plain">Select plan &amp; complete profile</string>
+    <string name="select_plain_complete">Select plan &amp; complete</string>
+    <string name="will_you_uses_this">Will you uses this tracking phone number online?</string>
+    <string name="yes_online">Yes,use online</string>
+    <string name="website_email">e.g website,email,PPC ads social media</string>
+    <string name="no_uses_offline">No use offline</string>
+    <string name="direct_mail">e.g direct mail,print ads,television</string>
+    <string name="will_you_show_on_website">Will you show this tracking number on your website?</string>
+    <string name="yes_onwebsite">Yes,on my website</string>
+    <string name="you_need_access" tools:ignore="StringEscaping">You'll need access to the website's source code</string>
+    <string name="no_someone_else">No, somewhere else</string>
+    <string name="email_signature">e.g PPC,add,email signature,direction</string>
+    <string name="yes_each_visitor">Yes,track each visitor</string>
+    <string name="ppc_keyword" tools:ignore="StringEscaping">You'll create a pool of 8+ phone number that will be dynamically rotate to track to visitor,page view and PPC keyword</string>
+    <string name="no_track">No,track a campain</string>
+    <string name="campaign_setting" tools:ignore="StringEscaping">You'll create a single phone number that will display to visitor who match your campaign setting </string>
+    <string name="AdWords_and_extension">Will this number be used in a Google AdWords ad extension</string>
+    <string name="in_an_add_extension">Yes,in an  ad extension</string>
+    <string name="any_adword_and_extenstion">Any AdWords ad extensions</string>
+    <string name="call_extenstion">Any AdWords ad extensions,include call extension</string>
+    <string name="email_signature_online_direction">e.g. email signature,online direction,other PPC ad</string>
+    <string name="yes_in_only_mobile_add">Yes,only in mobile ads</string>
+    <string name="no_in_only_desktop_add">No,in desktop ads too</string>
+    <string name="includes_both_campagign_target">Include both campaigns targeted toward mobile device and call-only campaigns</string>
+    <string name="includes_both_campagign_specifically">Include any campaigns not specifically targeted toward mobile device</string>
+    <string name="tracking_phone_no">Tracking Phone Number</string>
+    <string name="change_area_code">Change Area Code</string>
+    <string name="local_number">Local number</string>
+    <string name="tolfreeno">TOLL-FREE NUMBERS($2.00/MO SURCHARGE)</string>
+    <string name="other_option">Other options</string>
+    <string name="WISHPER_MESSAGE">WISHPER MESSAGE</string>
+    <string name="whai_is_wishper_message">What is wishper message?</string>
+    <string name="record_calls">RECORD CALLS</string>
+    <string name="this_call_will_be_recorded">This call will be recorded for quality assurance</string>
+    <string name="important_note">Important note!</string>
+    <string name="example_referrall">Example: Facebook referral</string>
+    <string name="sel_plain">Select Plain</string>
+    <string name="enter_area_code">Enter area code,ZIP or State</string>
+    <string name="change">Change</string>
+    <string name="nevermind">Never mind</string>
+    <string name="select_tracking_sources">Select Tracking sources</string>
+    <string name="destinaton_no_and_pool_size">Destination Number &amp; Pool Size</string>
+    <string name="pool_name">POOL NAME</string>
+    <string name="What_Should_i_name_this">What should I name this?</string>
+    <string name="Destination_Number">DESTINATION NUMBER</string>
+    <string name="number">(815)999-777</string>
+    <string name="Which_phone_number_do_i_use">Which phone number do I use?</string>
+    <string name="pool_size">POOL SIZE</string>
+    <string name="create">Create</string>
+    <string name="new_tracking_number">new tracking number.</string>
+    <string name="how_do_i_select_pool_size">How do I select a pool size?</string>
+    <string name="name">Name</string>
+    <string name="name_destination_no">Name &amp; Destination Number </string>
+    <string name="tracing_source">Tracking Source</string>
+    <string name="search">Search</string>
+    <string name="Visitors_from">Visitors from</string>
+    <string name="for_">for</string>
+
+    <string name="WebReferrals"> Webs Referrals</string>
+    <string name="yelp_com">yelp.com</string>
+    <string name="landingpage_com">landingpage.com</string>
+    <string name="landing_page">landing page</string>
+    <string name="landing_parmas">Landing params</string>
+    <string name="visotor_to_landing_page">Visitors to a landing page containing</string>
+    <string name="utm_source_example">utm_sources=example</string>
+    <string name="vistors_to_landign_page">Visitors to landing page containing</string>
+    <string name="visitors_who_land_on">Visitors who land on</string>
+    <string name="direct">Direct</string>
+    <string name="Visitors_without_a_referring_website">Visitors without a referring website</string>
+    <string name="always_swap">Always swap</string>
+    <string name="show_the_trackign_no_all_visitors">Show the tracking number to all visitors,regardless of source</string>
+    <string name="you_are_all_set">YOU ARE ALL SET</string>
+    <string name="suggestednextstep">Suggested Next Step</string>
+    <string name="review_number">Review Number</string>
+    <string name="next_step">Next Step</string>
+    <string name="go_to_dashboard">Go to Dashboard</string>
+    <string name="setup_call_flow">Set up a Call Flow</string>
+    <string name="easily_build_call_flow">Easily build call flows to route every call to the right person,every time.</string>
+    <string name="setup_up_notifications">Set up Notifications</string>
+    <string name="instantly_receive_notificaton">Instantly receive notificatons of your phone calls.</string>
+    <string name="Integrate_with_google">Integrate with Google Analytics</string>
+    <string name="send_calls_to_analytics_acc">Send a calls to your analytics account.</string>
+    <string name="radio_ad">Radio ad.</string>
+    <string name="call_recording">Call Recording:</string>
+    <string name="Off">off</string>
+    <string name="off">Off</string>
+    <string name="greeting">Greeting</string>
+    <string name="text_message">Text Messaging</string>
+    <string name="edit_number">Edit Number</string>
+    <string name="full_name">Full name</string>
+    <string name="jon_dev">Jon dev</string>
+    <string name="email">Email</string>
+    <string name="jon_dev_email">jondev@gmail.com</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="min_5_char">Min 5 char</string>
+    <string name="comple_profile">Complete Profile</string>
+    <string name="finish">Finish</string>
+    <string name="payment_method">Payment method</string>
+    <string name="after_click">After click you \'ll be redirected to the service you\'ve choosen</string>
+    <string name="select_your_plain">Select Your Plain</string>
+    <string name="annually">Annually</string>
+    <string name="monthty">Monthly</string>
+    <string name="monthly">Monthly</string>
+    <string name="Basic">Basic</string>
+    <string name="Free">Free</string>
+    <string name="Our_basic_version">Our basic version for companies that are just getting started.</string>
+    <string name="select_basic">Select basic</string>
+    <string name="free_features">Free Features:</string>
+    <string name="feature_one">Feature one will fit the line height even if it\'s longer than was expected</string>
+    <string name="feature_two">Feature two has only two lines of text</string>
+    <string name="feature_three">Feature three in one line</string>
+    <string name="Plus">Plus</string>
+    <string name="value">$9.99</string>
+    <string name="powerfull_enough">Power ful enough to run your entire Business.</string>
+    <string name="select_Plus">Select Plus</string>
+    <string name="permonth_billed_annually">per month billed annually</string>
+    <string name="basic_features">Basic features and:</string>
+    <string name="Plus_feature_one">Feature one is longer than was expected</string>
+    <string name="Pro">Pro</string>
+    <string name="value3">$24.99</string>
+    <string name="select_Pro">Select Pro</string>
+    <string name="power_of_plus">All the power of Plus,plus more control and support.</string>
+    <string name="Numbers">Numbers</string>
+    <string name="call_flows">Call Flows</string>
+    <string name="go_back">Go Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="name_and_destinaton_no"><![CDATA[Name & Destinaton Number]]></string>
+    <string name="number_name">Number name</string>
+    <string name="exp_radio">Radio ad</string>
+    <string name="call_flow">Call Flow</string>
+    <string name="call_flow_one">Call flow one</string>
+    <string name="switch_to_basic"><u>Switch to basi call forwarding</u></string>
+    <string name="memorable_name" tools:ignore="StringEscaping">The Number Name'is how we'll refer to this tracking number in your reports.Pick a brief and memorable name</string>
+    <string name="dynamic_number_name">Dynamic Number Insertion</string>
+    <string name="automatically_detect">Automatically detect how visitors find your website and display the appropriate tracking phone number.</string>
+    <string name="swap_target">Swap Target</string>
+    <string name="what_is_swap_target">What is swap target</string>
+    <string name="telprovile_javascript">24*7 Tel provides a Javascript sniippet and Wordpress plugin to automatically show your tracking numbers to your website visitors.</string>
+    <string name="Swap_setting">Swap Settings</string>
+    <string name="show_this_tracking_number">We\'ll show this tracking number to you website visitors that arrive via the select tracking source.</string>
+    <string name="receive_text_message">Receive text message(SMS) on trackign my number.</string>
+    <string name="what_is_this">What is this?</string>
+    <string name="text_message_allows_mobile_phone">Text messageing allows mobile phone users to send text messages to your tracking number,just as if it were a cell phone numbers.</string>
+    <string name="caller_id">Caller id</string>
+    <string name="show_the_callers">Show the caller\'s number on my caller ID</string>
+    <string name="show_the_tracking_number_on_my_caller_id">Show the tracking number on my caller ID</string>
+    <string name="show_the_universal_phone">Show 24*7 Tel\'s universal phone number (805-787-876)on my caller ID</string>
+    <string name="show_the_specitic_tracking">Show a specific tracking number on my caller ID</string>
+    <string name="campaign_name">Campaign name</string>
+    <string name="whisper_message">Whisper Message</string>
+    <string name="whisper_message_details">A  \"Whisper Message\"is a short mesage that play to the call recipient before the call in connected.The caller does hear this message.\n\n
+    The keyphrase[soures] is dynamically updated with the calls sources and keywords,when available.\n\n Use the keyphrase [tag] to hear the call tags assigned to an incoming call.</string>
+    <string name="whisper_message_details1">The keyphrase[soures] is dynamically updated with the calls sources and keywords,when available.</string>
+    <string name="whisper_message_details2">Use the keyphrase [tag] to hear the call tags assigned to an incoming call.</string>
+    <string name="disable_number">Disable Number</string>
+    <string name="disable_number_tracking">Disabling this tracking number will permanently release it This action is immediate and cannot be undone.</string>
+    <string name="Permanently_disable_number">Permanently disable this number</string>
+    <string name="active_number">2 Active Number</string>
+    <string name="add_tracking_number">Add tracking number</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

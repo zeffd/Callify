@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="18"
+    android:viewportHeight="18" android:width="18dp" android:height="18dp">
+    <group android:name="icon--Unblock" android:translateY="0" android:translateX="0">
+        <path android:fillColor="#70828B" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M 14.06,2 L 8.56,9.47 L 5.71,6.73 L 4,8.38 L 8.81,13 L 16,3.45 z" />
+        <path android:fillColor="#70828B" android:strokeWidth="1" android:name="Shape"
+            android:fillType="nonZero" android:strokeColor="#00000000"
+            android:pathData="M16.2585,7.14525 C16.41075,7.74 16.5,8.35875 16.5,9 C16.5,13.1355 13.1355,16.5 9,16.5 C4.8645,16.5 1.5,13.1355 1.5,9 C1.5,4.8645 4.8645,1.5 9,1.5 C9.83175,1.5 10.629,1.64175 11.3775,1.89225 L12.27525,0.62325 C11.259,0.22575 10.1565,0 9,0 C4.02975,0 0,4.02975 0,9 C0,13.97025 4.02975,18 9,18 C13.97025,18 18,13.97025 18,9 C18,7.81125 17.76375,6.6795 17.34525,5.64075 L16.2585,7.14525 Z" />
+    </group>
+</vector>

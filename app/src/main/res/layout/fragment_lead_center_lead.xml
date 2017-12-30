@@ -1,0 +1,132 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pcube.callify.Fragment.frag_LeadCenter_Lead">
+
+    <!-- TODO: Update blank fragment layout -->
+    <include android:id="@+id/l1"
+        layout="@layout/header"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/l1">
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+    <LinearLayout
+        android:id="@+id/l2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_margin="20sp"
+        android:background="@drawable/button_background_skyblue"
+        android:padding="3sp">
+
+        <Button
+            android:id="@+id/calls"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Calls"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorSkyBlue"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/texts"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Texts"
+            android:textColor="@color/colorSkyBlue"
+            android:background="@color/colorWhite"
+            android:textAllCaps="false"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l3"
+        android:layout_below="@id/l2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:background="@drawable/button_background_white">
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5sp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/l3"
+        android:orientation="vertical"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_marginTop="20sp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Calling now"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textColor="@color/colorGreen"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:text="No incoming calls"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Active Calls"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:layout_marginTop="40sp"
+            android:textColor="@color/colorGreen"/>
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/activeCalls"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recent"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:layout_marginTop="20sp"/>
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recentCalls"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="New Call"
+            android:background="@drawable/button_background_skyblue"
+            android:textColor="@color/colorWhite"
+            android:layout_marginBottom="20sp"
+            android:layout_marginTop="20sp"/>
+
+    </LinearLayout>
+
+
+        </TableLayout>
+    </ScrollView>
+</RelativeLayout>
